@@ -12,35 +12,44 @@ Ce portfolio me permet de suivre l’évolution de mes apprentissages, de consol
 
 ---
 
-## 🛠 **COMPPÉTENCES**
+# 🛠 **COMPÉTENCES**  
 
-Ces compétences reflètent mon expertise actuelle et les outils que j’utilise au quotidien:  
-
-- **Administration système** : Linux (CentOS, Debian, Ubuntu), Windows Server  
-- **Automatisation** : Ansible, scripting Bash, PowerShell, Python  
-- **Conteneurisation & Orchestration** : Docker, Kubernetes, Podman  
-- **Virtualisation & Cloud** : AWS, KVM, VMware, Proxmox, VirtualBox  
-- **Sécurité et réseau** : Firewall, VPN, monitoring, gestion des accès  
+- 💻 **Administration système** : Linux (CentOS, Debian, Ubuntu), Windows Server  
+- ⚙️ **Automatisation** : Ansible, scripting Bash, PowerShell, Python  
+- 📦 **Conteneurisation & Orchestration** : Docker, Kubernetes, Podman  
+- ☁️ **Virtualisation & Cloud** : AWS, KVM, VMware, Proxmox, VirtualBox  
+- 🔐 **Sécurité et réseau** : Firewall, VPN, monitoring, gestion des accès  
 
 ---
 
-## 🎓 **FORMATION & CERTIFICATIONS**
+# 🎓 **FORMATION & CERTIFICATIONS**  
 
-### 📘 **Diplôme OpenClassrooms – [Administrateur systèmes, réseaux et sécurité](https://github.com/PoissonChevre/OC)** (Bac+3/4, obtenu en mai 2024)  
+## 📘 **Diplôme OpenClassrooms – [Administrateur systèmes, réseaux et sécurité](https://github.com/PoissonChevre/OC) (Bac+3/4, obtenu en mai 2024)**  
 
-Ce cursus m’a permis d’acquérir des compétences fondamentales en **gestion des infrastructures IT, administration système, sécurité réseau et services cloud** à travers des projets concrets couvrant tous les aspects clés d’un SI. À l’issue de cette formation, j’ai obtenu un **diplôme de niveau Bac+3/4** (équivalent à une licence professionnelle en informatique).   
+- Formation pratique en **gestion des infrastructures IT, administration système, sécurité réseau et services cloud**.  
+- Projets concrets couvrant tous les aspects clés d’un SI.  
+- Diplôme Bac+3/4 (équivalent licence pro en informatique).  
 
-### **RHCSA [Red Hat Certified System Administrator](https://github.com/PoissonChevre/rhcsa)**  en cours
+---
 
-Cette certification me permet de renforcer mes compétences sur les systèmes Red Hat, en matière d’administration, de configuration et de gestion des services dans un environnement Linux.
+## 🔴 **RHCSA – [Red Hat Certified System Administrator](https://github.com/PoissonChevre/rhcsa) (En cours)**  
 
-### **CKA [Certified Kubernetes Administrator](https://github.com/PoissonChevre/CKA)**  en cours
+- Renforcement des compétences en **administration Red Hat** (gestion, configuration, services Linux).  
 
-La certification CKA m’apporte une expertise approfondie sur Kubernetes, un outil essentiel dans le monde de l'orchestration des conteneurs. Elle m’aide à développer des compétences avancées dans la gestion et la maintenance des clusters Kubernetes, un savoir-faire indispensable pour évoluer dans le domaine du Cloud et du DevOps.
-  
-### **AWS CLOUD PRACTICIONER: [AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!](https://www.youtube.com/watch?v=SOTamWNgDKc)** à venir
+---
 
-Cette certification couvre les bases des services cloud d'Amazon Web Services (AWS) et me permet d’acquérir une compréhension globale de l’architecture, des services et des solutions proposés par AWS, tout en me préparant à évoluer vers des rôles plus spécialisés dans l’architecture et la gestion des infrastructures Cloud.
+## 🚀 **CKA – [Certified Kubernetes Administrator](https://github.com/PoissonChevre/CKA) (En cours)**  
+
+- Expertise avancée en **orchestration de conteneurs avec Kubernetes**.  
+- Compétences clés pour la **gestion et maintenance des clusters Kubernetes**.  
+
+---
+
+## ☁️ **AWS CLOUD PRACTITIONER – [Certification CLF-C01](https://www.youtube.com/watch?v=SOTamWNgDKc) (À venir)**  
+
+- Maîtrise des bases des **services cloud AWS**.  
+- Compréhension globale de l’**architecture, des services et solutions AWS**.  
+- Tremplin vers des rôles en **architecture et gestion des infrastructures Cloud**.
 
 ---
 
@@ -49,16 +58,19 @@ Cette certification couvre les bases des services cloud d'Amazon Web Services (A
 Ces différents tutoriels m'ont été d'une grande aide et ont nourri mon intérêt pour le développement de mon propre homelab. J'y ai installé un serveur **Proxmox**, sur lequel j'ai appris à déployer des **machines virtuelles, des conteneurs, un VPN, un firewall et un cluster Kubernetes**, tout en expérimentant diverses configurations réseau. Cette approche pratique m’a permis d’acquérir une **expérience précieuse** en gestion et orchestration d’infrastructures, en renforçant mes compétences en **virtualisation, automatisation et sécurisation des systèmes**.
 
 ### **Vagrant** 🏗️  
+
 📌 [DevOps Journey: Vagrant 101 Tutorial - All you need to know to get started with Vagrant](https://github.com/PoissonChevre/vagrant)  
 
 **Vagrant** est un outil permettant d’**automatiser** la création et la gestion de machines virtuelles, facilitant ainsi le déploiement rapide et cohérent d’environnements de développement reproductibles.  
 
 ### **Docker** 🐳  
+
 📌 [Learn to build and deploy your distributed applications easily to the cloud with Docker](https://github.com/PoissonChevre/docker)  
 
 **Docker** est une solution de **conteneurisation** qui encapsule des applications et leurs dépendances dans des conteneurs légers, assurant ainsi un déploiement rapide, portable et évolutif sur différents environnements.  
 
 ### **Proxmox Virtual Environment** 🖥️  
+
 📌 [Learn Linux TV : Apprenez Proxmox Virtual Environment](https://github.com/PoissonChevre/proxmox)  
 
 **Proxmox Virtual Environment** (PVE) est une plateforme open-source de **virtualisation** combinant **KVM et LXC** pour la gestion efficace de machines virtuelles et de conteneurs. Il offre une interface web intuitive et des fonctionnalités avancées telles que la **haute disponibilité** et la **gestion des sauvegardes**, simplifiant ainsi l’administration des infrastructures IT.  

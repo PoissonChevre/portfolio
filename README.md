@@ -1,63 +1,66 @@
-# 👋 Bienvenue sur mon portfolio  
+# 👋 **Bienvenue sur mon portfolio** !
 
-Après plus de 15 ans d'expérience dans l’audiovisuel, j’ai choisi de me reconvertir dans l’IT, un domaine qui m’a toujours passionné. Curieux et autodidacte, je me spécialise aujourd’hui en **administration système, réseau et sécurité**, avec un intérêt particulier pour l’**automatisation et le Cloud**.  
+Après plus de 15 ans d'expérience dans l’audiovisuel, j’ai choisi de me reconvertir dans l’IT, un domaine qui m’a toujours passionné. Curieux et autodidacte, je me spécialise aujourd’hui en **administration système, réseau et sécurité**, avec un intérêt particulier pour l’**automatisation** et le **Cloud**.
 
-Mon parcours de formation m’a permis de développer et renforcer mes compétences à travers une série de projets professionnels et personnels. Ce portfolio présente une sélection de **mes réalisations récentes et projets en cours**, illustrant mon approche technique et mon engagement à évoluer en permanence.  LL’objectif de ce portfolio est de vous inviter à découvrir mon parcours, de partager mes expériences et d'échanger avec la communauté IT sur nos passions communes.
+Mon parcours de formation m’a permis de développer et renforcer mes compétences à travers une série de projets professionnels et personnels. Ce portfolio présente une sélection de **mes projets en cours**, illustrant mon évolution.
 
-🎯 **Objectif** : Évoluer vers un rôle en **Cloud & DevOps**, en combinant administration système, automatisation et gestion d’infrastructures modernes.  
+Ce portfolio me permet de suivre l’évolution de mes apprentissages, de consolider mes connaissances et de nourrir de nouveaux projets. Son objectif est de vous inviter à explorer mon parcours, à partager mes expériences et à échanger, avec enthousiasme, avec la communauté IT autour de nos passions communes.
+
+🎯 **Ambition** : Évoluer vers un rôle en **Cloud & DevOps**, en combinant administration système, automatisation et gestion d’infrastructures modernes.  
 
 **Bonne visite !** 🚀
 
 ---
 
-## 🛠 Compétences principales  
+## 🛠 **COMPPÉTENCES**
 
-Ces compétences reflètent mon expertise actuelle et les technologies que j’explore activement :  
+Ces compétences reflètent mon expertise actuelle et les outils que j’utilise au quotidien:  
 
-- ✅ **Administration système** : Linux (CentOS, Debian, Ubuntu), Windows Server  
-- ✅ **Automatisation** : Ansible, scripting Bash, PowerShell, Python  
-- ✅ **Conteneurisation & Orchestration** : Docker, Kubernetes, Podman  
-- ✅ **Virtualisation & Cloud** : AWS, KVM, VMware, Proxmox, VirtualBox  
-- ✅ **Sécurité et réseau** : Firewall, VPN, monitoring, gestion des accès  
+- **Administration système** : Linux (CentOS, Debian, Ubuntu), Windows Server  
+- **Automatisation** : Ansible, scripting Bash, PowerShell, Python  
+- **Conteneurisation & Orchestration** : Docker, Kubernetes, Podman  
+- **Virtualisation & Cloud** : AWS, KVM, VMware, Proxmox, VirtualBox  
+- **Sécurité et réseau** : Firewall, VPN, monitoring, gestion des accès  
 
 ---
 
-## 🎓 Formation & Certifications  
-é
+## 🎓 **FORMATION & CERTIFICATIONS**
+
 ### 📘 **Diplôme OpenClassrooms – [Administrateur systèmes, réseaux et sécurité](https://github.com/PoissonChevre/OC)** (Bac+3/4, obtenu en mai 2024)  
 
-Ce cursus m’a permis d’acquérir des compétences approfondies en **gestion des infrastructures IT, administration système, sécurité réseau et services cloud** à travers des projets concrets couvrant tous les aspects clés d’un SI. À l’issue de cette formation, j’ai obtenu un **diplôme reconnu par l'État (niveau Bac+3, équivalent à une licence professionnelle en informatique)**.  
+Ce cursus m’a permis d’acquérir des compétences fondamentales en **gestion des infrastructures IT, administration système, sécurité réseau et services cloud** à travers des projets concrets couvrant tous les aspects clés d’un SI. À l’issue de cette formation, j’ai obtenu un **diplôme de niveau Bac+3/4** (équivalent à une licence professionnelle en informatique).   
 
-### 🎯 **Certifications en cours**  
+### **RHCSA [Red Hat Certified System Administrator](https://github.com/PoissonChevre/rhcsa)**  en cours
 
-- **RHCSA (Red Hat Certified System Administrator)**  
-- **CKA [Certified Kubernetes Administrator](https://github.com/PoissonChevre/CKA)**  
+Cette certification me permet de renforcer mes compétences sur les systèmes Red Hat, en matière d’administration, de configuration et de gestion des services dans un environnement Linux.
 
----
+### **CKA [Certified Kubernetes Administrator](https://github.com/PoissonChevre/CKA)**  en cours
 
-## Udemy : [Certified Kubernetes Administrator (CKA) with Practice Tests]
+La certification CKA m’apporte une expertise approfondie sur Kubernetes, un outil essentiel dans le monde de l'orchestration des conteneurs. Elle m’aide à développer des compétences avancées dans la gestion et la maintenance des clusters Kubernetes, un savoir-faire indispensable pour évoluer dans le domaine du Cloud et du DevOps.
+  
+### **AWS CLOUD PRACTICIONER: [AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!](https://www.youtube.com/watch?v=SOTamWNgDKc)** à venir
 
-Dans le cadre de mon apprentissage continu, je me prépare à passer la certification CKA avec un programme d'apprentissage sur Udemy. Kubernetes est un système open-source conçu pour automatiser le déploiement, le dimensionnement et la gestion d'applications conteneurisées. Initié par Google et désormais maintenu par la [Cloud Native Computing Foundation](https://www.cncf.io/), Kubernetes est reconnu pour son efficacité dans l'orchestration des conteneurs. Ce projet explore divers aspects de Kubernetes, tels que l'administration, la conception et la mise en place de clusters à partir de zéro, ainsi que les tests, le dépannage, la sécurité, et la configuration du stockage et du réseau au sein d'un cluster Kubernetes.  
-
-## KodeKloud : [Red Hat Certified System Administrator(RHCSA)](https://github.com/PoissonChevre/RHCSA)
-
-Dans le cadre de mon apprentissage continu, je me prépare à passer la certification CKA avec un programme d'apprentissage sur Udemy. Kubernetes est un système open-source conçu pour automatiser le déploiement, le dimensionnement et la gestion d'applications conteneurisées. Initié par Google et désormais maintenu par la [Cloud Native Computing Foundation](https://www.cncf.io/), Kubernetes est reconnu pour son efficacité dans l'orchestration des conteneurs. Ce projet explore divers aspects de Kubernetes, tels que l'administration, la conception et la mise en place de clusters à partir de zéro, ainsi que les tests, le dépannage, la sécurité, et la configuration du stockage et du réseau au sein d'un cluster Kubernetes.  
+Cette certification couvre les bases des services cloud d'Amazon Web Services (AWS) et me permet d’acquérir une compréhension globale de l’architecture, des services et des solutions proposés par AWS, tout en me préparant à évoluer vers des rôles plus spécialisés dans l’architecture et la gestion des infrastructures Cloud.
 
 ---
 
-## Vagrant : [DevOps Journey: Vagrant 101 Tutorial - All you need to know to get started with Vagrant](https://github.com/PoissonChevre/vagrant)
+## 🏠 **PROJETS & HOMELAB**
 
-Vagrant est un outil puissant pour la création de machines virtuelles et l'automatisation de la gestion des configurations. Il supporte le provisionnement avec Ansible, ainsi qu'avec des outils DevOps tels que Puppet et Chef, facilitant ainsi la mise en place d'environnements de développement cohérents et reproductibles. J'ai approfondi ces connaissances à travers quelques tutoriels, ce qui m'a permis de renforcer mes compétences en gestion d'infrastructure et en automatisation.
+Ces différents tutoriels m'ont été d'une grande aide et ont nourri mon intérêt pour le développement de mon propre homelab. J'y ai installé un serveur **Proxmox**, sur lequel j'ai appris à déployer des **machines virtuelles, des conteneurs, un VPN, un firewall et un cluster Kubernetes**, tout en expérimentant diverses configurations réseau. Cette approche pratique m’a permis d’acquérir une **expérience précieuse** en gestion et orchestration d’infrastructures, en renforçant mes compétences en **virtualisation, automatisation et sécurisation des systèmes**.
 
-## Docker : [Learn to build and deploy your distributed applications easily to the cloud with Docker](https://github.com/PoissonChevre/docker)
+### **Vagrant** 🏗️  
+📌 [DevOps Journey: Vagrant 101 Tutorial - All you need to know to get started with Vagrant](https://github.com/PoissonChevre/vagrant)  
 
-Docker est un outil open-source qui permet de déployer des applications dans des conteneurs, des environnements isolés et légers fonctionnant sur le système d'exploitation hôte. Dans le cadre de mon apprentissage et de ma pratique, j'explore Docker pour sa capacité à optimiser le déploiement des applications. Ce tutoriel m'a aidé à me familiariser avec Docker.
+**Vagrant** est un outil permettant d’**automatiser** la création et la gestion de machines virtuelles, facilitant ainsi le déploiement rapide et cohérent d’environnements de développement reproductibles.  
 
-## Learn Linux TV : [Apprenez Proxmox Virtual Environment](https://github.com/PoissonChevre/proxmox)
+### **Docker** 🐳  
+📌 [Learn to build and deploy your distributed applications easily to the cloud with Docker](https://github.com/PoissonChevre/docker)  
 
-Proxmox Virtual Environment est une solution de virtualisation exceptionnelle, tout comme Kubernetes l'est pour la conteneurisation. Je partage ici un projet où j'ai configuré un cluster Kubernetes à partir de zéro en utilisant Proxmox comme plateforme. Dans ce cours d'initiation, je partage comment j'ai configuré un cluster Kubernetes à partir de zéro en utilisant Proxmox comme plateforme.
+**Docker** est une solution de **conteneurisation** qui encapsule des applications et leurs dépendances dans des conteneurs légers, assurant ainsi un déploiement rapide, portable et évolutif sur différents environnements.  
 
+### **Proxmox Virtual Environment** 🖥️  
+📌 [Learn Linux TV : Apprenez Proxmox Virtual Environment](https://github.com/PoissonChevre/proxmox)  
 
-## AWS CLOUD: [AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!](https://www.youtube.com/watch?v=SOTamWNgDKc)
+**Proxmox Virtual Environment** (PVE) est une plateforme open-source de **virtualisation** combinant **KVM et LXC** pour la gestion efficace de machines virtuelles et de conteneurs. Il offre une interface web intuitive et des fonctionnalités avancées telles que la **haute disponibilité** et la **gestion des sauvegardes**, simplifiant ainsi l’administration des infrastructures IT.  
 
-J'ai complété avec succès le cours de certification AWS Certified Cloud Practitioner (CLF-C01), ce qui atteste de ma compréhension fondamentale des services et des solutions proposés par Amazon Web Services (AWS). Ce programme m'a permis d'acquérir une solide compréhension des concepts de cloud computing, des services AWS essentiels, ainsi que des principes de sécurité et de gestion des coûts. Grâce à cette certification, je suis en mesure de concevoir et de gérer des solutions cloud efficaces tout en appliquant les meilleures pratiques en matière de sécurité et de conformité. Cette qualification renforce ma capacité à travailler avec les technologies AWS et à contribuer efficacement à des projets cloud.
+---

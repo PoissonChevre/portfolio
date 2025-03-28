@@ -24,6 +24,7 @@ Projets réalisés et technologies apprises au cours des différents projets : I
 - PROJET 12 : Évaluez et améliorez le niveaude sécurité d'un domaine associé
 - PROJET 13 : Gérez une migration vers le cloud
 
+
 ## Vagrant : [DevOps Journey: Vagrant 101 Tutorial - All you need to know to get started with Vagrant](https://github.com/PoissonChevre/vagrant)
 
 Vagrant est un outil puissant pour la création de machines virtuelles et l'automatisation de la gestion des configurations. Il supporte le provisionnement avec Ansible, ainsi qu'avec des outils DevOps tels que Puppet et Chef, facilitant ainsi la mise en place d'environnements de développement cohérents et reproductibles. J'ai approfondi ces connaissances à travers quelques tutoriels, ce qui m'a permis de renforcer mes compétences en gestion d'infrastructure et en automatisation.
